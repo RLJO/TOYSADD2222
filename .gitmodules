@@ -1,0 +1,4 @@
+[submodule "RLJO/Shipping_Module"]
+	path = RLJO/Shipping_Module
+	url = git@github.com:RLJO/Shipping_Module.git
+	branch = master
